@@ -50,4 +50,6 @@ Our program successfully converts the value of our potentiometer into the approp
 
 The biggest struggle for this project was properly converting our potentiometer position into the proper increment value.
 
-## [Code - Click here to view](score_counter.c)
+## Code
+
+[Click here to view](score_counter.c)
